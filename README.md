@@ -6,4 +6,3 @@
 ##### AWS Lambda
 ##### API Gateway
 ##### DynamoDB
-##### S3
