@@ -2,7 +2,7 @@
   "name": "auction-service",
   "version": "1.0.0",
   "description": "updated template",
-  "author": "Ariel Weinberger <ariel@codingly.io>",
+  "author": "Ashish Kumar Senapati",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.25.0",
