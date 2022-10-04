@@ -8,3 +8,5 @@
 ##### DynamoDB
 
 #SNS
+
+###Author: Ashish Kumar Senapati
